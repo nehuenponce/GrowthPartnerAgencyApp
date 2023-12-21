@@ -1,1 +1,3 @@
 # GrowthPartnerAgencyApp
+
+Growth Partner Agency es una aplicación alojada en Github que ofrece una solución integral para agencias en crecimiento. Esta plataforma está diseñada para optimizar la gestión de proyectos, la colaboración en equipo y el seguimiento del progreso, todo desde una ubicación centralizada. Permite a las agencias coordinar tareas, asignar proyectos, controlar el avance y gestionar la comunicación con clientes y colaboradores de manera eficiente. Además, su integración con Github proporciona una interfaz amigable para el seguimiento de versiones, revisiones de código y gestión de repositorios, permitiendo una experiencia completa para agencias que buscan unificar sus esfuerzos de desarrollo y gestión en un solo lugar.
